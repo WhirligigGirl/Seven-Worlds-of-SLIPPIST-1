@@ -1,0 +1,62 @@
+@EXPERIMENT_DEFINITION:HAS[#id[scienceName]]:FOR[aSLIPPIST-1]
+{
+	@RESULTS
+	{
+		Body
+		{
+			name = SLIPPIST-1/SLIPPIST-1
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Bravo
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Charlie
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Delta
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Echo
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Foxtrot
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Golf
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = SLIPPIST-1/Hotel
+			Values
+			{
+			}
+		}
+	}
+}
